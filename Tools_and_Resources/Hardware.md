@@ -50,13 +50,18 @@ Below is a list to hardware that can be used when performing wireless pentesting
   - Description: A versatile pentesting device that combines multiple functions, including wireless hacking, hardware hacking, radio communication, and more. It offers a wide range of features in a compact form factor.
   - Price: $120 - $150 (depending on the model)
 
-- [Hak5 Packet Squirrel](https://www.hak5.org/products/packet-squirrel):
-  - Description: A covert network interception device that can be used for wired and wireless network attacks. It allows for passive network sniffing, man-in-the-middle attacks, and data exfiltration.
-  - Price: $59
+- [Pwnagotchi](https://pwnagotchi.ai/):
+  - Description: Pwnagotchi is an AI-powered, open-source, and customizable "autonomous Wi-Fi hacking device." It uses machine learning to optimize its attacks and improve its capabilities over time. Pwnagotchi is designed to passively sniff Wi-Fi networks, capture handshakes, and crack passwords.
+  - Price: DIY (Do-It-Yourself) project with cost varying depending on the components and customization.
+
 
 - [Ubertooth One](https://greatscottgadgets.com/ubertoothone/):
   - Description: A Bluetooth sniffer and protocol analysis tool designed for Bluetooth security assessments. It enables monitoring and analysis of Bluetooth Low Energy (BLE) and Classic Bluetooth communications.
   - Price: $119
+
+- [Hak5 Packet Squirrel](https://www.hak5.org/products/packet-squirrel):
+  - Description: A covert network interception device that can be used for wired and wireless network attacks. It allows for passive network sniffing, man-in-the-middle attacks, and data exfiltration.
+  - Price: $59
 
 - [Pwnie Express Pwn Pad](https://www.pwnieexpress.com/pwn-pad/):
   - Description: A powerful Android-based device specifically designed for wireless penetration testing. It comes preloaded with a variety of tools for wireless network scanning, sniffing, and exploitation.
