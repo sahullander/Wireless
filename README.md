@@ -5,9 +5,15 @@ Welcome to the Wireless Security and Research Repository! This repository aims t
 ## 🚀 Getting Started
 
 The main objectives of this repository are the following:
-- Educate: Learn about different wireless protocols, vulnerabilities, and how to perform wireless penetration tests.
+- <u>Educate</u>: Learn about different wireless protocols, vulnerabilities, and how to perform wireless penetration tests.
 - Document: Find comprehensive documentation, guides, and tutorials on wireless security and pentesting techniques.
 - Create: Join the community and contribute your own tools, scripts, and methodologies to foster collaboration and innovation in wireless pentesting.
+
+*So, where should I start?* We're glad you asked!
+
+The answer is.. it depends. Here is a high-level description of each section of the repo that will help you make your decision on next step.
+
+[Protocols](#protocols): This folder is the main hub for learning about different wireless protocols, vulnerabilities, and how to perform wireless penetration testing. There are subfolders within the [Protocols](#protocols) folder for different "groups" of wireless protocols. These groups are [Cellular](#cellular), [WiFi](#wifi), [Bluetooth](#bluetooth), and [IoT](#IoT).
 
 ## 🔍 Table of Contents
 
