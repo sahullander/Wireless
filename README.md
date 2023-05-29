@@ -73,7 +73,7 @@ The [Bluetooth](Protocols/Bluetooth/) section provides information on Blutooth C
 - [Bluetooth Classic](Protocols/Bluetooth/Classic/)
   - [Vulnerabilities and Exploitation](Protocols/Bluetooth/Classic/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Bluetooth/Classic/Testing_Runbook.md)
-- [Bluetooth BLE](Protocols/Bluetooth/BLE/)
+- [Bluetooth Low Energy (BLE)](Protocols/Bluetooth/BLE/)
   - [Vulnerabilities and Exploitation](Protocols/Bluetooth/BLE/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Bluetooth/BLE/Testing_Runbook.md)
 
