@@ -22,7 +22,7 @@ Welcome to the Wireless Security and Research Repository! This repository aims t
   - [IoT](#IoT)
     - [Zigbee](#IoT)
     - [Z-Wave](#IoT)
-- [Pentesting Methodology](#methodology)
+- [Methodology](#methodology)
 - [Tools and Resources](#tools-and-resources)
 
 ## Protocols
