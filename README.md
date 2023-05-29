@@ -11,6 +11,7 @@ Welcome to the Wireless Security and Research Repository! This repository aims t
     - [4G (LTE)](#cellular)
     - [5G](#cellular)
   - [WiFi](#wifi)
+    - [OPEN](#wifi)
     - [WEP](#wifi)
     - [WPA](#wifi)
     - [WPA2](#wifi)
@@ -32,7 +33,6 @@ The [Protocols](Protocols/) directory contains detailed information on various w
 
 The [Cellular](Protocols/Cellular/) section provides information on 2G, 3G, 4G, and 5G.
 
-- [History of Cellular Networks](Protocols/Cellular/History.md)
 - [2G](Protocols/Cellular/2G/)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/2G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/2G/Testing_Runbook.md)
@@ -48,9 +48,11 @@ The [Cellular](Protocols/Cellular/) section provides information on 2G, 3G, 4G, 
     
 ### WiFi
 
-The [WiFi](Protocols/WiFi/) section provides information on WEP, WPA, WPA2, and WPA3.
+The [WiFi](Protocols/WiFi/) section provides information on OPEN networks, WEP, WPA, WPA2, and WPA3.
 
-- [History of WiFi](Protocols/WiFi/History.md)
+- [OPEN](Protocols/WiFi/OPEN/)
+  - [Vulnerabilities and Exploitation](Protocols/WiFi/OPEN/Vulnerabilities_and_Exploitation.md)
+  - [Testing Runbook](Protocols/WiFi/OPEN/Testing_Runbook.md)
 - [WEP](Protocols/WiFi/WEP/)
   - [Vulnerabilities and Exploitation](Protocols/WiFi/WEP/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/WiFi/WEP/Testing_Runbook.md)
@@ -68,7 +70,6 @@ The [WiFi](Protocols/WiFi/) section provides information on WEP, WPA, WPA2, and 
 
 The [Bluetooth](Protocols/Bluetooth/) section provides information on Blutooth Classic and Bluetooth Low Energy (BLE).
 
-- [History of Bluetooth](Protocols/Bluetooth/History.md)
 - [Bluetooth Classic](Protocols/Bluetooth/Classic/)
   - [Vulnerabilities and Exploitation](Protocols/Bluetooth/Classic/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Bluetooth/Classic/Testing_Runbook.md)
