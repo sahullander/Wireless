@@ -1,4 +1,5 @@
-# WiFi
+# <img src="https://cdn.pixabay.com/photo/2016/02/24/22/11/wireless-1220904_960_720.png" alt="Image" width="50"> WiFi
+
 
 The WiFi protocol is a widely used wireless communication standard that enables devices to connect and communicate over local area networks (LANs) and the internet. This section explores the different WiFi security mechanisms, vulnerabilities, and testing methodologies.
 
