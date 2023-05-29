@@ -34,19 +34,15 @@ The [Cellular](Protocols/Cellular/) section provides information on 2G, 3G, 4G, 
 
 - [History of Cellular Networks](Protocols/Cellular/History.md)
 - [2G](Protocols/Cellular/2G/)
-  - [Overview](Protocols/Cellular/2G/README.md)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/2G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/2G/Testing_Runbook.md)
 - [3G](Protocols/Cellular/3G/)
-  - [Overview](Protocols/Cellular/3G/README.md)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/3G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/3G/Testing_Runbook.md)
 - [4G](Protocols/Cellular/4G/)
-  - [Overview](Protocols/Cellular/4G/README.md)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/4G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/4G/Testing_Runbook.md)
 - [5G](Protocols/Cellular/5G/)
-  - [Overview](Protocols/Cellular/5G/README.md)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/5G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/5G/Testing_Runbook.md)
     
@@ -56,19 +52,15 @@ The [WiFi](Protocols/WiFi/) section provides information on WEP, WPA, WPA2, and 
 
 - [History of WiFi](Protocols/WiFi/History.md)
 - [WEP](Protocols/WiFi/WEP/)
-  - [Overview](Protocols/WiFi/WEP/README.md)
   - [Vulnerabilities and Exploitation](Protocols/WiFi/WEP/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/WiFi/WEP/Testing_Runbook.md)
 - [WPA](Protocols/WiFi/WPA/)
-  - [Overview](Protocols/WiFi/WPA/README.md)
   - [Vulnerabilities and Exploitation](Protocols/WiFi/WPA/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/WiFi/WPA/Testing_Runbook.md)
 - [WPA2](Protocols/WiFi/WPA2/)
-  - [Overview](Protocols/WiFi/WPA2/README.md)
   - [Vulnerabilities and Exploitation](Protocols/WiFi/WPA2/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/WiFi/WPA2/Testing_Runbook.md)
 - [WPA3](Protocols/WiFi/WPA3/)
-  - [Overview](Protocols/WiFi/WPA3/README.md)
   - [Vulnerabilities and Exploitation](Protocols/WiFi/WPA3/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/WiFi/WPA3/Testing_Runbook.md)
   
@@ -78,11 +70,9 @@ The [Bluetooth](Protocols/Bluetooth/) section provides information on Blutooth C
 
 - [History of Bluetooth](Protocols/Bluetooth/History.md)
 - [Bluetooth Classic](Protocols/Bluetooth/Classic/)
-  - [Overview](Protocols/Bluetooth/Classic/README.md)
   - [Vulnerabilities and Exploitation](Protocols/Bluetooth/Classic/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Bluetooth/Classic/Testing_Runbook.md)
 - [Bluetooth BLE](Protocols/Bluetooth/BLE/)
-  - [Overview](Protocols/Bluetooth/BLE/README.md)
   - [Vulnerabilities and Exploitation](Protocols/Bluetooth/BLE/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Bluetooth/BLE/Testing_Runbook.md)
 
@@ -91,11 +81,9 @@ The [Bluetooth](Protocols/Bluetooth/) section provides information on Blutooth C
 The [IoT](Protocols/IoT/) section provides information on Zigbee and Z-Wave.
 
 - [Zigbee](Protocols/IoT/Zigbee/)
-  - [Overview](Protocols/IoT/Zigbee/README.md)
   - [Vulnerabilities and Exploitation](Protocols/IoT/Zigbee/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/IoT/Zigbee/Testing_Runbook.md)
 - [Z-Wave](Protocols/IoT/Z-Wave/)
-  - [Overview](Protocols/IoT/Z-Wave/README.md)
   - [Vulnerabilities and Exploitation](Protocols/IoT/Z-Wave/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/IoT/Z-Wave/Testing_Runbook.md)
 
