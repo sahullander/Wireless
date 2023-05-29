@@ -4,13 +4,13 @@ Welcome to the Wireless Security and Research Repository! This repository aims t
 
 ## Table of Contents
 
-- [Protocols](README.md#protocols)
+- [Protocols](#protocols)
   - [Cellular](README.md#cellular)
     - [2G (GSM)](README.md#cellular)
     - [3G](README.md#cellular)
     - [4G (LTE)](README.md#cellular)
     - [5G](README.md#cellular)
-  - [WiFi](README.md#wifi)
+  - [WiFi](#wifi)
     - [WEP](README.md#wifi)
     - [WPA](README.md#wifi)
     - [WPA2](README.md#wifi)
