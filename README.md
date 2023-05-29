@@ -28,6 +28,10 @@ Welcome to the Wireless Security and Research Repository! This repository aims t
     - [Risk Assessment Guidelines](#methodology)
     - [Reporting Guidelines](#methodology)
 - [Tools and Resources](#tools-and-resources)
+    - [Pentesting Steps](#tools-and-resources)
+    - [Best Practices](#tools-and-resources)
+    - [Risk Assessment Guidelines](#tools-and-resources)
+    - [Reporting Guidelines](#tools-and-resources)
 
 ## Protocols
 
@@ -104,6 +108,13 @@ The [Methodology](Methodology/) section provides guidance on the steps, best pra
 ## Tools and Resources
 
 The [Tools and Resources](Tools_and_Resources/) directory contains a curated list of tools, scripts, and resources specific to each wireless protocol for your convenience.
-
+- [Hardware](Tools_and_Resources/Hardware.md)
+- [Software](Tools_and_Resources/Software.md)
+- [Videos](Tools_and_Resources/Videos.md)
+- [Books](Tools_and_Resources/Books.md)
+- [Podcasts](Tools_and_Resources/Podcasts.md)
+- [Educational Platforms](Tools_and_Resources/Educational_Platforms.md)
+- [Social Media Creators](Tools_and_Resources/Social_Media_Creators.md)
+- [Committees and Organizations](Tools_and_Resources/Committees_and_Organizations)
 
 
