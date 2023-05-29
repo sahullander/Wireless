@@ -110,7 +110,6 @@ The [Pentesting Methodology](Pentesting_Methodology/) section provides guidance 
 
 - [Pentesting Steps](Pentesting_Methodology/Pentesting_Steps.md)
 - [Best Practices](Pentesting_Methodology/Best_Practices.md)
-- [Tools and Techniques](Pentesting_Methodology/Tools_and_Techniques.md)
 - [Risk Assessment Guidelines](Pentesting_Methodology/Risk_Assessment_Guidelines.md)
 - [Reporting Guidelines](Pentesting_Methodology/Reporting_Guidelines.md)
 
