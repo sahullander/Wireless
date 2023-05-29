@@ -33,13 +33,13 @@ The [Protocols](Protocols/) directory contains detailed information on various w
 
 The [Cellular](Protocols/Cellular/) section provides information on 2G, 3G, 4G, and 5G.
 
-- [2G](Protocols/Cellular/2G/)
+- [2G (GSM)](Protocols/Cellular/2G/)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/2G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/2G/Testing_Runbook.md)
 - [3G](Protocols/Cellular/3G/)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/3G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/3G/Testing_Runbook.md)
-- [4G](Protocols/Cellular/4G/)
+- [4G (LTE)](Protocols/Cellular/4G/)
   - [Vulnerabilities and Exploitation](Protocols/Cellular/4G/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/Cellular/4G/Testing_Runbook.md)
 - [5G](Protocols/Cellular/5G/)
