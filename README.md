@@ -1,19 +1,22 @@
 # 🌐 Wireless Security and Research Repository 
 
-Welcome to the Wireless Security and Research Repository! This repository aims to provide a comprehensive collection of resources, information, and tools related to wireless protocols, their security, and research. Whether you are a wireless security enthusiast, a penetration tester, or a researcher, this repository serves as a valuable source of knowledge and practical guidance. There is a lot to explore, so if this your first time here we highly recommend you checkout [Getting Started](#-getting-started). As an alternative, the [Table of Contents](#-table-of-contents) section provides an outline for the entire repository!
+Welcome to the **Wireless Security and Research Repository**! This repository aims to provide a comprehensive collection of resources, information, and tools related to wireless protocols, their security, and research. Whether you are a wireless security enthusiast, a penetration tester, or a researcher, this repository serves as a valuable source of knowledge and practical guidance. There is a lot to explore, so if this your first time here we highly recommend you checkout [Getting Started](#-getting-started). As an alternative, the [Table of Contents](#-table-of-contents) section provides an outline for the entire repository!
 
 ## 🚀 Getting Started
 
+<span style="color: red;">**This word will appear in red.**</span>
+
 The main objectives of this repository are the following:
-- <u>Educate</u>: Learn about different wireless protocols, vulnerabilities, and how to perform wireless penetration tests.
-- Document: Find comprehensive documentation, guides, and tutorials on wireless security and pentesting techniques.
-- Create: Join the community and contribute your own tools, scripts, and methodologies to foster collaboration and innovation in wireless pentesting.
+- **Educate**: Learn about different wireless protocols, vulnerabilities, and how to perform wireless penetration tests.
+- **Document**: Find comprehensive documentation, guides, and tutorials on wireless security and pentesting techniques.
+- **Create**: Join the community and contribute your own tools, scripts, and methodologies to foster collaboration and innovation in wireless pentesting.
 
-*So, where should I start?* We're glad you asked!
+*So, where should I start?*  We're glad you asked! The answer is.. it depends.
 
-The answer is.. it depends. Here is a high-level description of each section of the repo that will help you make your decision on next step.
+Below is a high-level description of each section of the repo that will help you make your decision on next steps.
 
-[Protocols](#protocols): This folder is the main hub for learning about different wireless protocols, vulnerabilities, and how to perform wireless penetration testing. There are subfolders within the [Protocols](#protocols) folder for different "groups" of wireless protocols. These groups are [Cellular](#cellular), [WiFi](#wifi), [Bluetooth](#bluetooth), and [IoT](#IoT).
+#### Protocols
+The [Protocols](#protocols) folder is the main hub for learning about different wireless protocols, vulnerabilities, and how to perform wireless penetration testing. There are subfolders within the [Protocols](#protocols) folder for different "groups" of wireless protocols. These groups are [Cellular](#cellular), [WiFi](#wifi), [Bluetooth](#bluetooth), and [IoT](#IoT).
 
 ## 🔍 Table of Contents
 
