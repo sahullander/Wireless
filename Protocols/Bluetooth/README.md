@@ -1,4 +1,4 @@
-# Bluetooth <img src="https://static.vecteezy.com/system/resources/previews/019/017/524/original/bluetooth-transparent-free-png.png" alt="Image" width="50">
+# <img src="https://static.vecteezy.com/system/resources/previews/019/017/524/original/bluetooth-transparent-free-png.png" alt="Image" width="50"> Bluetooth
 
 Bluetooth is a wireless communication technology that enables short-range data exchange between devices. This section explores the different aspects of Bluetooth protocols, including classic Bluetooth and Bluetooth Low Energy (BLE), their security mechanisms, vulnerabilities, and testing methodologies.
 
