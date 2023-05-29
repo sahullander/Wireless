@@ -1,6 +1,6 @@
 # 🌐 Wireless Security and Research Repository 
 
-Welcome to the Wireless Security and Research Repository! This repository aims to provide a comprehensive collection of resources, information, and tools related to wireless protocols, their security, and research. Whether you are a wireless security enthusiast, a penetration tester, or a researcher, this repository serves as a valuable source of knowledge and practical guidance. There is a lot to explore, so if this your first time here we highly recommend you checkout [Getting Started](#getting-started). As an alternative, the [Table of Contents](#table-of-contents) section provides an outline for the entire repository!
+Welcome to the Wireless Security and Research Repository! This repository aims to provide a comprehensive collection of resources, information, and tools related to wireless protocols, their security, and research. Whether you are a wireless security enthusiast, a penetration tester, or a researcher, this repository serves as a valuable source of knowledge and practical guidance. There is a lot to explore, so if this your first time here we highly recommend you checkout [Getting Started](#-getting-started). As an alternative, the [Table of Contents](#-table-of-contents) section provides an outline for the entire repository!
 
 ## 🚀 Getting Started
 
