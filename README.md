@@ -5,9 +5,9 @@ Welcome to the Wireless Security and Research Repository! This repository aims t
 ## 🚀 Getting Started
 
 The main objectives of this repository are the following:
-- Educate: Users should be able to learn about different wireless protocols, the vulnerabilities that exist, and how to conduct a penetration test
-- Document
-- Create
+- Educate: Learn about different wireless protocols, vulnerabilities, and how to perform wireless penetration tests.
+- Document: Find comprehensive documentation, guides, and tutorials on wireless security and pentesting techniques.
+- Create: Join the community and contribute your own tools, scripts, and methodologies to foster collaboration and innovation in wireless pentesting.
 
 ## 🔍 Table of Contents
 
