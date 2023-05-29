@@ -90,12 +90,12 @@ The [IoT](Protocols/IoT/) section provides information on Zigbee and Z-Wave.
 
 ## Pentesting Methodology
 
-The [Pentesting Methodology](Pentesting_Methodology/) section provides guidance on the steps, best practices, tools, and techniques involved in wireless penetration testing. It also includes risk assessment guidelines and reporting templates.
+The [Methodology](Methodology/) section provides guidance on the steps, best practices, tools, and techniques involved in wireless penetration testing. It also includes risk assessment guidelines and reporting templates.
 
-- [Pentesting Steps](Pentesting_Methodology/Pentesting_Steps.md)
-- [Best Practices](Pentesting_Methodology/Best_Practices.md)
-- [Risk Assessment Guidelines](Pentesting_Methodology/Risk_Assessment_Guidelines.md)
-- [Reporting Guidelines](Pentesting_Methodology/Reporting_Guidelines.md)
+- [Pentesting Steps](Methodology/Pentesting_Steps.md)
+- [Best Practices](Methodology/Best_Practices.md)
+- [Risk Assessment Guidelines](Methodology/Risk_Assessment_Guidelines.md)
+- [Reporting Guidelines](Methodology/Reporting_Guidelines.md)
 
 ## Tools and Resources
 
