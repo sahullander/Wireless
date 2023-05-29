@@ -22,7 +22,7 @@ Welcome to the Wireless Security and Research Repository! This repository aims t
   - [IoT](#IoT)
     - [Zigbee](#IoT)
     - [Z-Wave](#IoT)
-- [Pentesting Methodology](#pentesting-methodology)
+- [Pentesting Methodology](#methodology)
 - [Tools and Resources](#tools-and-resources)
 
 ## Protocols
@@ -88,7 +88,7 @@ The [IoT](Protocols/IoT/) section provides information on Zigbee and Z-Wave.
   - [Vulnerabilities and Exploitation](Protocols/IoT/Z-Wave/Vulnerabilities_and_Exploitation.md)
   - [Testing Runbook](Protocols/IoT/Z-Wave/Testing_Runbook.md)
 
-## Pentesting Methodology
+## Methodology
 
 The [Methodology](Methodology/) section provides guidance on the steps, best practices, tools, and techniques involved in wireless penetration testing. It also includes risk assessment guidelines and reporting templates.
 
